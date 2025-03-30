@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# JetBrains/WebStorm
+.idea/
+*.iml
+
+# Angular
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.angular/cache/
+/frontend/.vscode/
+
+# Python/Django
+__pycache__/
+*.pyc
+/backend/venv/
+/backend/db.sqlite3
